@@ -3,6 +3,7 @@ import { progressEngine } from '../engines/progress.js';
 import { xpEngine } from '../engines/xp.js';
 import { streakEngine } from '../engines/streak.js';
 import { levelEngine } from '../engines/level.js';
+import { timeEngine } from '../engines/time.js';
 
 export class AnalyticsView {
     constructor() {
@@ -127,6 +128,67 @@ export class AnalyticsView {
                         <p style="margin-top: 12px; opacity: 0.8;">Oyiga o'rtacha vazifa: ${Math.round(completedMissions / 3)}</p>
                     </div>
                 </div>
+
+                <!-- ═══ TIME ENGINE ANALYTICS ═══ -->
+                <div class="section-header" style="margin-top: 48px; margin-bottom: 24px;">
+                    <h2>⏱️ O'quv Vaqti Tahlili</h2>
+                </div>
+
+                <div class="stats-grid" style="margin-bottom: 32px;">
+                    <div class="stat-card">
+                        <div class="stat-info">
+                            <span class="stat-label">Haftalik Soatlar</span>
+                            <span class="stat-value">${timeEngine.getWeeklyHours().total}s</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-info">
+                            <span class="stat-label">Oylik Soatlar</span>
+                            <span class="stat-value">${timeEngine.getMonthlyHours()}s</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-info">
+                            <span class="stat-label">Eng Ko'p O'qilgan</span>
+                            <span class="stat-value" style="font-size: 16px;">${timeEngine.getMostStudiedTrack().name}</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mission-details-card" style="margin-bottom: 32px;">
+                    <h2>Yo'nalishlar Bo'yicha Vaqt Taqsiboti</h2>
+                    
+                    <div style="margin-top: 24px;">
+                        <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+                            <span>Backend Muhandisligi</span>
+                            <span>${timeEngine.getTrackHours('backend')} soat</span>
+                        </div>
+                        <div class="progress-bar-bg" style="height: 8px;">
+                            <div class="progress-bar-fill" style="width: ${timeEngine.getTotalHours() > 0 ? (timeEngine.getTrackHours('backend') / timeEngine.getTotalHours()) * 100 : 0}%; background: var(--accent-primary);"></div>
+                        </div>
+                    </div>
+
+                    <div style="margin-top: 24px;">
+                        <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+                            <span>Ingliz Tili Ustaligi</span>
+                            <span>${timeEngine.getTrackHours('english')} soat</span>
+                        </div>
+                        <div class="progress-bar-bg" style="height: 8px;">
+                            <div class="progress-bar-fill" style="width: ${timeEngine.getTotalHours() > 0 ? (timeEngine.getTrackHours('english') / timeEngine.getTotalHours()) * 100 : 0}%; background: var(--accent-success);"></div>
+                        </div>
+                    </div>
+
+                    <div style="margin-top: 24px;">
+                        <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+                            <span>Akademik Sun'iy Intellekt</span>
+                            <span>${timeEngine.getTrackHours('ai')} soat</span>
+                        </div>
+                        <div class="progress-bar-bg" style="height: 8px;">
+                            <div class="progress-bar-fill" style="width: ${timeEngine.getTotalHours() > 0 ? (timeEngine.getTrackHours('ai') / timeEngine.getTotalHours()) * 100 : 0}%; background: var(--accent-warning);"></div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         `;
     }

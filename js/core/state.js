@@ -13,7 +13,8 @@ const defaultState = {
         maxStreak: 0
     },
     settings: {
-        theme: 'dark'
+        theme: 'dark',
+        studyStartHour: 18 // O'quv boshlanish soati (default 18:00)
     },
     progress: {}, // Stores completed missions: { 'b_1': { status: 'completed', completedAt: '...' } }
     xp: {
@@ -27,7 +28,9 @@ const defaultState = {
         missedDays: 0,
         freezes: 0
     },
-    journal: []
+    journal: [],
+    timeSessions: [], // { id, track, startTime, endTime, duration, date }
+    activeTimer: null  // { track, startTime, elapsed, isPaused, pausedAt }
 };
 
 class StateManager extends EventTarget {

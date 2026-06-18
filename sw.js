@@ -1,4 +1,4 @@
-const CACHE_NAME = 'sardor-mission-90-v1';
+const CACHE_NAME = 'sardor-mission-90-v2';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
@@ -17,6 +17,7 @@ const ASSETS_TO_CACHE = [
     './js/engines/progress.js',
     './js/engines/streak.js',
     './js/engines/xp.js',
+    './js/engines/time.js',
     
     // Views
     './js/views/ai.js',

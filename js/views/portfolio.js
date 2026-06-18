@@ -3,6 +3,7 @@ import { xpEngine } from '../engines/xp.js';
 import { streakEngine } from '../engines/streak.js';
 import { levelEngine } from '../engines/level.js';
 import { state } from '../core/state.js';
+import { timeEngine } from '../engines/time.js';
 
 export class PortfolioView {
     constructor() {
@@ -96,6 +97,21 @@ export class PortfolioView {
                         </div>
                     </div>
                 </div>
+
+                <!-- ═══ TIME ACHIEVEMENTS ═══ -->
+                <div class="mission-details-card" style="margin-top: 32px;">
+                    <h2>⏱️ O'quv Vaqti Yutuqlari</h2>
+                    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 16px; margin-top: 16px;">
+                        ${timeEngine.getTimeAchievements().map(a => `
+                            <div style="padding: 16px; background: var(--card-bg); border-radius: 12px; text-align: center; border: 1px solid ${a.unlocked ? 'var(--accent-success)' : 'transparent'}; opacity: ${a.unlocked ? '1' : '0.4'}; transition: all 0.3s;">
+                                <div style="font-size: 32px; margin-bottom: 8px;">${a.icon}</div>
+                                <strong style="font-size: 13px; display: block; margin-bottom: 4px;">${a.title}</strong>
+                                <p style="font-size: 11px; opacity: 0.8;">${a.desc}</p>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+
             </div>
         `;
     }

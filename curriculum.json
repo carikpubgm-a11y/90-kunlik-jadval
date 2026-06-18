@@ -1,0 +1,4425 @@
+{
+    "metadata": {
+        "total_days": 90,
+        "version": "1.0",
+        "description": "The complete 90-day transformation curriculum."
+    },
+    "tracks": {
+        "backend": [
+            {
+                "id": "backend_day_1",
+                "day": 1,
+                "title": "Introduction to Python & Setup",
+                "description": "Master Introduction to Python & Setup and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 100,
+                "completed": false
+            },
+            {
+                "id": "backend_day_2",
+                "day": 2,
+                "title": "Variables & Data Types",
+                "description": "Master Variables & Data Types and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 100,
+                "completed": false
+            },
+            {
+                "id": "backend_day_3",
+                "day": 3,
+                "title": "Basic Operators",
+                "description": "Master Basic Operators and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 100,
+                "completed": false
+            },
+            {
+                "id": "backend_day_4",
+                "day": 4,
+                "title": "String Manipulation",
+                "description": "Master String Manipulation and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 100,
+                "completed": false
+            },
+            {
+                "id": "backend_day_5",
+                "day": 5,
+                "title": "Lists & Tuples",
+                "description": "Master Lists & Tuples and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 100,
+                "completed": false
+            },
+            {
+                "id": "backend_day_6",
+                "day": 6,
+                "title": "Dictionaries & Sets",
+                "description": "Master Dictionaries & Sets and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 100,
+                "completed": false
+            },
+            {
+                "id": "backend_day_7",
+                "day": 7,
+                "title": "Control Flow: If/Else",
+                "description": "Master Control Flow: If/Else and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 100,
+                "completed": false
+            },
+            {
+                "id": "backend_day_8",
+                "day": 8,
+                "title": "Loops: For & While",
+                "description": "Master Loops: For & While and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 100,
+                "completed": false
+            },
+            {
+                "id": "backend_day_9",
+                "day": 9,
+                "title": "Functions & Scope",
+                "description": "Master Functions & Scope and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 100,
+                "completed": false
+            },
+            {
+                "id": "backend_day_10",
+                "day": 10,
+                "title": "Error Handling & Exceptions",
+                "description": "Master Error Handling & Exceptions and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 110,
+                "completed": false
+            },
+            {
+                "id": "backend_day_11",
+                "day": 11,
+                "title": "File I/O Basics",
+                "description": "Master File I/O Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 110,
+                "completed": false
+            },
+            {
+                "id": "backend_day_12",
+                "day": 12,
+                "title": "Modules & Imports",
+                "description": "Master Modules & Imports and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 110,
+                "completed": false
+            },
+            {
+                "id": "backend_day_13",
+                "day": 13,
+                "title": "List Comprehensions",
+                "description": "Master List Comprehensions and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 110,
+                "completed": false
+            },
+            {
+                "id": "backend_day_14",
+                "day": 14,
+                "title": "Lambda Functions",
+                "description": "Master Lambda Functions and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 110,
+                "completed": false
+            },
+            {
+                "id": "backend_day_15",
+                "day": 15,
+                "title": "Virtual Environments",
+                "description": "Master Virtual Environments and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 110,
+                "completed": false
+            },
+            {
+                "id": "backend_day_16",
+                "day": 16,
+                "title": "Classes & Objects",
+                "description": "Master Classes & Objects and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 110,
+                "completed": false
+            },
+            {
+                "id": "backend_day_17",
+                "day": 17,
+                "title": "Inheritance & Polymorphism",
+                "description": "Master Inheritance & Polymorphism and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 110,
+                "completed": false
+            },
+            {
+                "id": "backend_day_18",
+                "day": 18,
+                "title": "Dunder Methods",
+                "description": "Master Dunder Methods and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 110,
+                "completed": false
+            },
+            {
+                "id": "backend_day_19",
+                "day": 19,
+                "title": "Decorators Basics",
+                "description": "Master Decorators Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 110,
+                "completed": false
+            },
+            {
+                "id": "backend_day_20",
+                "day": 20,
+                "title": "Iterators & Generators",
+                "description": "Master Iterators & Generators and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "backend_day_21",
+                "day": 21,
+                "title": "Working with JSON",
+                "description": "Master Working with JSON and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "backend_day_22",
+                "day": 22,
+                "title": "Working with CSVs",
+                "description": "Master Working with CSVs and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "backend_day_23",
+                "day": 23,
+                "title": "Regex Basics",
+                "description": "Master Regex Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "backend_day_24",
+                "day": 24,
+                "title": "Datetime Module",
+                "description": "Master Datetime Module and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "backend_day_25",
+                "day": 25,
+                "title": "Math & Random Modules",
+                "description": "Master Math & Random Modules and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "backend_day_26",
+                "day": 26,
+                "title": "Collections Module",
+                "description": "Master Collections Module and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "backend_day_27",
+                "day": 27,
+                "title": "Debugging Basics",
+                "description": "Master Debugging Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "backend_day_28",
+                "day": 28,
+                "title": "Unit Testing Basics",
+                "description": "Master Unit Testing Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "backend_day_29",
+                "day": 29,
+                "title": "Git & GitHub Basics",
+                "description": "Master Git & GitHub Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "backend_day_30",
+                "day": 30,
+                "title": "Month 1 Project: CLI App",
+                "description": "Master Month 1 Project: CLI App and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "backend_day_31",
+                "day": 31,
+                "title": "Advanced Decorators",
+                "description": "Master Advanced Decorators and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "backend_day_32",
+                "day": 32,
+                "title": "Context Managers",
+                "description": "Master Context Managers and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "backend_day_33",
+                "day": 33,
+                "title": "Metaclasses",
+                "description": "Master Metaclasses and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "backend_day_34",
+                "day": 34,
+                "title": "Concurrency: Threads",
+                "description": "Master Concurrency: Threads and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "backend_day_35",
+                "day": 35,
+                "title": "Concurrency: Multiprocessing",
+                "description": "Master Concurrency: Multiprocessing and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "backend_day_36",
+                "day": 36,
+                "title": "Asyncio Basics",
+                "description": "Master Asyncio Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "backend_day_37",
+                "day": 37,
+                "title": "Type Hinting",
+                "description": "Master Type Hinting and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "backend_day_38",
+                "day": 38,
+                "title": "Dataclasses",
+                "description": "Master Dataclasses and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "backend_day_39",
+                "day": 39,
+                "title": "Pydantic Basics",
+                "description": "Master Pydantic Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "backend_day_40",
+                "day": 40,
+                "title": "Advanced Error Handling",
+                "description": "Master Advanced Error Handling and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "backend_day_41",
+                "day": 41,
+                "title": "Logging",
+                "description": "Master Logging and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "backend_day_42",
+                "day": 42,
+                "title": "Design Patterns: Singleton & Factory",
+                "description": "Master Design Patterns: Singleton & Factory and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "backend_day_43",
+                "day": 43,
+                "title": "Design Patterns: Observer & Strategy",
+                "description": "Master Design Patterns: Observer & Strategy and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "backend_day_44",
+                "day": 44,
+                "title": "Clean Code Principles",
+                "description": "Master Clean Code Principles and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "backend_day_45",
+                "day": 45,
+                "title": "SOLID Principles",
+                "description": "Master SOLID Principles and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "backend_day_46",
+                "day": 46,
+                "title": "Testing with Pytest",
+                "description": "Master Testing with Pytest and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "backend_day_47",
+                "day": 47,
+                "title": "Mocking in Tests",
+                "description": "Master Mocking in Tests and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "backend_day_48",
+                "day": 48,
+                "title": "Test Coverage",
+                "description": "Master Test Coverage and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "backend_day_49",
+                "day": 49,
+                "title": "CI/CD Basics",
+                "description": "Master CI/CD Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "backend_day_50",
+                "day": 50,
+                "title": "Docker Basics",
+                "description": "Master Docker Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "backend_day_51",
+                "day": 51,
+                "title": "Dockerizing Python Apps",
+                "description": "Master Dockerizing Python Apps and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "backend_day_52",
+                "day": 52,
+                "title": "Working with Databases (SQLite)",
+                "description": "Master Working with Databases (SQLite) and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "backend_day_53",
+                "day": 53,
+                "title": "PostgreSQL Basics",
+                "description": "Master PostgreSQL Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "backend_day_54",
+                "day": 54,
+                "title": "SQLAlchemy ORM Basics",
+                "description": "Master SQLAlchemy ORM Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "backend_day_55",
+                "day": 55,
+                "title": "Advanced SQLAlchemy",
+                "description": "Master Advanced SQLAlchemy and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "backend_day_56",
+                "day": 56,
+                "title": "Alembic Migrations",
+                "description": "Master Alembic Migrations and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "backend_day_57",
+                "day": 57,
+                "title": "Redis Basics",
+                "description": "Master Redis Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "backend_day_58",
+                "day": 58,
+                "title": "Celery Task Queues",
+                "description": "Master Celery Task Queues and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "backend_day_59",
+                "day": 59,
+                "title": "Advanced Git Workflows",
+                "description": "Master Advanced Git Workflows and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "backend_day_60",
+                "day": 60,
+                "title": "Month 2 Project: Data Pipeline",
+                "description": "Master Month 2 Project: Data Pipeline and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "backend_day_61",
+                "day": 61,
+                "title": "Web Basics (HTTP, REST)",
+                "description": "Master Web Basics (HTTP, REST) and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "backend_day_62",
+                "day": 62,
+                "title": "FastAPI Introduction",
+                "description": "Master FastAPI Introduction and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "backend_day_63",
+                "day": 63,
+                "title": "FastAPI Routes & Parameters",
+                "description": "Master FastAPI Routes & Parameters and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "backend_day_64",
+                "day": 64,
+                "title": "FastAPI Pydantic Models",
+                "description": "Master FastAPI Pydantic Models and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "backend_day_65",
+                "day": 65,
+                "title": "FastAPI Dependency Injection",
+                "description": "Master FastAPI Dependency Injection and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "backend_day_66",
+                "day": 66,
+                "title": "FastAPI Authentication (JWT)",
+                "description": "Master FastAPI Authentication (JWT) and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "backend_day_67",
+                "day": 67,
+                "title": "FastAPI Middleware",
+                "description": "Master FastAPI Middleware and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "backend_day_68",
+                "day": 68,
+                "title": "FastAPI Background Tasks",
+                "description": "Master FastAPI Background Tasks and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "backend_day_69",
+                "day": 69,
+                "title": "FastAPI Testing",
+                "description": "Master FastAPI Testing and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "backend_day_70",
+                "day": 70,
+                "title": "Django Introduction",
+                "description": "Master Django Introduction and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "backend_day_71",
+                "day": 71,
+                "title": "Django Models & Admin",
+                "description": "Master Django Models & Admin and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "backend_day_72",
+                "day": 72,
+                "title": "Django Views & URLs",
+                "description": "Master Django Views & URLs and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "backend_day_73",
+                "day": 73,
+                "title": "Django Templates",
+                "description": "Master Django Templates and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "backend_day_74",
+                "day": 74,
+                "title": "Django REST Framework (DRF) Basics",
+                "description": "Master Django REST Framework (DRF) Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "backend_day_75",
+                "day": 75,
+                "title": "DRF Serializers",
+                "description": "Master DRF Serializers and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "backend_day_76",
+                "day": 76,
+                "title": "DRF ViewSets & Routers",
+                "description": "Master DRF ViewSets & Routers and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "backend_day_77",
+                "day": 77,
+                "title": "DRF Authentication & Permissions",
+                "description": "Master DRF Authentication & Permissions and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "backend_day_78",
+                "day": 78,
+                "title": "GraphQL Basics (Strawberry/Graphene)",
+                "description": "Master GraphQL Basics (Strawberry/Graphene) and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "backend_day_79",
+                "day": 79,
+                "title": "WebSockets in Python",
+                "description": "Master WebSockets in Python and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "backend_day_80",
+                "day": 80,
+                "title": "Microservices Architecture Basics",
+                "description": "Master Microservices Architecture Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 180,
+                "completed": false
+            },
+            {
+                "id": "backend_day_81",
+                "day": 81,
+                "title": "API Gateway & Reverse Proxy (Nginx)",
+                "description": "Master API Gateway & Reverse Proxy (Nginx) and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 180,
+                "completed": false
+            },
+            {
+                "id": "backend_day_82",
+                "day": 82,
+                "title": "Caching Strategies",
+                "description": "Master Caching Strategies and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 180,
+                "completed": false
+            },
+            {
+                "id": "backend_day_83",
+                "day": 83,
+                "title": "Rate Limiting",
+                "description": "Master Rate Limiting and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 180,
+                "completed": false
+            },
+            {
+                "id": "backend_day_84",
+                "day": 84,
+                "title": "Monitoring & Logging (Prometheus/Grafana)",
+                "description": "Master Monitoring & Logging (Prometheus/Grafana) and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 180,
+                "completed": false
+            },
+            {
+                "id": "backend_day_85",
+                "day": 85,
+                "title": "AWS/GCP Deployment Basics",
+                "description": "Master AWS/GCP Deployment Basics and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 180,
+                "completed": false
+            },
+            {
+                "id": "backend_day_86",
+                "day": 86,
+                "title": "Serverless Python (AWS Lambda)",
+                "description": "Master Serverless Python (AWS Lambda) and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 180,
+                "completed": false
+            },
+            {
+                "id": "backend_day_87",
+                "day": 87,
+                "title": "Security Best Practices (OWASP)",
+                "description": "Master Security Best Practices (OWASP) and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 180,
+                "completed": false
+            },
+            {
+                "id": "backend_day_88",
+                "day": 88,
+                "title": "Performance Profiling",
+                "description": "Master Performance Profiling and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 180,
+                "completed": false
+            },
+            {
+                "id": "backend_day_89",
+                "day": 89,
+                "title": "Scaling Backend Systems",
+                "description": "Master Scaling Backend Systems and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 180,
+                "completed": false
+            },
+            {
+                "id": "backend_day_90",
+                "day": 90,
+                "title": "Month 3 Project: Full Backend API",
+                "description": "Master Month 3 Project: Full Backend API and apply it in coding exercises.",
+                "type": "coding",
+                "xp": 190,
+                "completed": false
+            }
+        ],
+        "english": [
+            {
+                "id": "english_day_1",
+                "day": 1,
+                "title": "English Mastery: Day 1",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 1 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_2",
+                "day": 2,
+                "title": "English Mastery: Day 2",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 2 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_3",
+                "day": 3,
+                "title": "English Mastery: Day 3",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 3 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_4",
+                "day": 4,
+                "title": "English Mastery: Day 4",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 4 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_5",
+                "day": 5,
+                "title": "English Mastery: Day 5",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 5 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_6",
+                "day": 6,
+                "title": "English Mastery: Day 6",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 6 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_7",
+                "day": 7,
+                "title": "English Mastery: Day 7",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 7 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_8",
+                "day": 8,
+                "title": "English Mastery: Day 8",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 8 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_9",
+                "day": 9,
+                "title": "English Mastery: Day 9",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 9 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_10",
+                "day": 10,
+                "title": "English Mastery: Day 10",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 10 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_11",
+                "day": 11,
+                "title": "English Mastery: Day 11",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 11 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_12",
+                "day": 12,
+                "title": "English Mastery: Day 12",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 12 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_13",
+                "day": 13,
+                "title": "English Mastery: Day 13",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 13 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_14",
+                "day": 14,
+                "title": "English Mastery: Day 14",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 14 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_15",
+                "day": 15,
+                "title": "English Mastery: Day 15",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 15 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_16",
+                "day": 16,
+                "title": "English Mastery: Day 16",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 16 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_17",
+                "day": 17,
+                "title": "English Mastery: Day 17",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 17 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_18",
+                "day": 18,
+                "title": "English Mastery: Day 18",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 18 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_19",
+                "day": 19,
+                "title": "English Mastery: Day 19",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 19 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_20",
+                "day": 20,
+                "title": "English Mastery: Day 20",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 20 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_21",
+                "day": 21,
+                "title": "English Mastery: Day 21",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 21 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_22",
+                "day": 22,
+                "title": "English Mastery: Day 22",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 22 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_23",
+                "day": 23,
+                "title": "English Mastery: Day 23",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 23 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_24",
+                "day": 24,
+                "title": "English Mastery: Day 24",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 24 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_25",
+                "day": 25,
+                "title": "English Mastery: Day 25",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 25 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_26",
+                "day": 26,
+                "title": "English Mastery: Day 26",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 26 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_27",
+                "day": 27,
+                "title": "English Mastery: Day 27",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 27 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_28",
+                "day": 28,
+                "title": "English Mastery: Day 28",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 28 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_29",
+                "day": 29,
+                "title": "English Mastery: Day 29",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 5 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 29 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_30",
+                "day": 30,
+                "title": "English Mastery: Day 30",
+                "description": "Daily comprehensive English practice (Beginner/Intermediate).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 30 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_31",
+                "day": 31,
+                "title": "English Mastery: Day 31",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 31 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_32",
+                "day": 32,
+                "title": "English Mastery: Day 32",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 32 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_33",
+                "day": 33,
+                "title": "English Mastery: Day 33",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 33 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_34",
+                "day": 34,
+                "title": "English Mastery: Day 34",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 34 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_35",
+                "day": 35,
+                "title": "English Mastery: Day 35",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 35 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_36",
+                "day": 36,
+                "title": "English Mastery: Day 36",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 36 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_37",
+                "day": 37,
+                "title": "English Mastery: Day 37",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 37 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_38",
+                "day": 38,
+                "title": "English Mastery: Day 38",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 38 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_39",
+                "day": 39,
+                "title": "English Mastery: Day 39",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 39 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_40",
+                "day": 40,
+                "title": "English Mastery: Day 40",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 40 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_41",
+                "day": 41,
+                "title": "English Mastery: Day 41",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 41 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_42",
+                "day": 42,
+                "title": "English Mastery: Day 42",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 42 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_43",
+                "day": 43,
+                "title": "English Mastery: Day 43",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 43 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_44",
+                "day": 44,
+                "title": "English Mastery: Day 44",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 44 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_45",
+                "day": 45,
+                "title": "English Mastery: Day 45",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 45 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_46",
+                "day": 46,
+                "title": "English Mastery: Day 46",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 46 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_47",
+                "day": 47,
+                "title": "English Mastery: Day 47",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 47 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_48",
+                "day": 48,
+                "title": "English Mastery: Day 48",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 48 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_49",
+                "day": 49,
+                "title": "English Mastery: Day 49",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 49 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_50",
+                "day": 50,
+                "title": "English Mastery: Day 50",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 50 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_51",
+                "day": 51,
+                "title": "English Mastery: Day 51",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 51 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_52",
+                "day": 52,
+                "title": "English Mastery: Day 52",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 52 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_53",
+                "day": 53,
+                "title": "English Mastery: Day 53",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 53 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_54",
+                "day": 54,
+                "title": "English Mastery: Day 54",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 54 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_55",
+                "day": 55,
+                "title": "English Mastery: Day 55",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 55 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_56",
+                "day": 56,
+                "title": "English Mastery: Day 56",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 56 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_57",
+                "day": 57,
+                "title": "English Mastery: Day 57",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 57 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_58",
+                "day": 58,
+                "title": "English Mastery: Day 58",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 58 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_59",
+                "day": 59,
+                "title": "English Mastery: Day 59",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 7 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 59 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_60",
+                "day": 60,
+                "title": "English Mastery: Day 60",
+                "description": "Daily comprehensive English practice (Intermediate/Advanced).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 60 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_61",
+                "day": 61,
+                "title": "English Mastery: Day 61",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 61 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_62",
+                "day": 62,
+                "title": "English Mastery: Day 62",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 62 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_63",
+                "day": 63,
+                "title": "English Mastery: Day 63",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 63 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_64",
+                "day": 64,
+                "title": "English Mastery: Day 64",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 64 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_65",
+                "day": 65,
+                "title": "English Mastery: Day 65",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 65 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_66",
+                "day": 66,
+                "title": "English Mastery: Day 66",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 66 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_67",
+                "day": 67,
+                "title": "English Mastery: Day 67",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 67 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_68",
+                "day": 68,
+                "title": "English Mastery: Day 68",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 68 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_69",
+                "day": 69,
+                "title": "English Mastery: Day 69",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 69 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_70",
+                "day": 70,
+                "title": "English Mastery: Day 70",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 70 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_71",
+                "day": 71,
+                "title": "English Mastery: Day 71",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 71 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_72",
+                "day": 72,
+                "title": "English Mastery: Day 72",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 72 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_73",
+                "day": 73,
+                "title": "English Mastery: Day 73",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 73 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_74",
+                "day": 74,
+                "title": "English Mastery: Day 74",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 74 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_75",
+                "day": 75,
+                "title": "English Mastery: Day 75",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 75 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_76",
+                "day": 76,
+                "title": "English Mastery: Day 76",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 76 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_77",
+                "day": 77,
+                "title": "English Mastery: Day 77",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 77 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_78",
+                "day": 78,
+                "title": "English Mastery: Day 78",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 78 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_79",
+                "day": 79,
+                "title": "English Mastery: Day 79",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 79 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_80",
+                "day": 80,
+                "title": "English Mastery: Day 80",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 80 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_81",
+                "day": 81,
+                "title": "English Mastery: Day 81",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 81 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_82",
+                "day": 82,
+                "title": "English Mastery: Day 82",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 82 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_83",
+                "day": 83,
+                "title": "English Mastery: Day 83",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 83 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_84",
+                "day": 84,
+                "title": "English Mastery: Day 84",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 84 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_85",
+                "day": 85,
+                "title": "English Mastery: Day 85",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 85 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_86",
+                "day": 86,
+                "title": "English Mastery: Day 86",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 86 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_87",
+                "day": 87,
+                "title": "English Mastery: Day 87",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 87 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_88",
+                "day": 88,
+                "title": "English Mastery: Day 88",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 88 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_89",
+                "day": 89,
+                "title": "English Mastery: Day 89",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 9 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 89 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": "english_day_90",
+                "day": 90,
+                "title": "English Mastery: Day 90",
+                "description": "Daily comprehensive English practice (Advanced/Fluent).",
+                "type": "language",
+                "xp": 150,
+                "completed": false,
+                "sub_tasks": [
+                    {
+                        "title": "Vocabulary: Learn 11 new words",
+                        "completed": false
+                    },
+                    {
+                        "title": "Grammar: Practice day 90 rules",
+                        "completed": false
+                    },
+                    {
+                        "title": "Reading: Read 1 article/chapter",
+                        "completed": false
+                    },
+                    {
+                        "title": "Listening: Listen to 15 mins of podcast/video",
+                        "completed": false
+                    },
+                    {
+                        "title": "Speaking: Record a 2-minute summary",
+                        "completed": false
+                    }
+                ]
+            }
+        ],
+        "academic_ai": [
+            {
+                "id": "academic_day_1",
+                "day": 1,
+                "title": "SEO Mastery - Part 1",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_2",
+                "day": 2,
+                "title": "SEO Mastery - Part 2",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_3",
+                "day": 3,
+                "title": "SEO Mastery - Part 3",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_4",
+                "day": 4,
+                "title": "SEO Mastery - Part 4",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_5",
+                "day": 5,
+                "title": "SEO Mastery - Part 5",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_6",
+                "day": 6,
+                "title": "SEO Mastery - Part 6",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_7",
+                "day": 7,
+                "title": "SEO Mastery - Part 7",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_8",
+                "day": 8,
+                "title": "SEO Mastery - Part 8",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_9",
+                "day": 9,
+                "title": "SEO Mastery - Part 9",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_10",
+                "day": 10,
+                "title": "SEO Mastery - Part 10",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_11",
+                "day": 11,
+                "title": "SEO Mastery - Part 11",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_12",
+                "day": 12,
+                "title": "SEO Mastery - Part 12",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_13",
+                "day": 13,
+                "title": "SEO Mastery - Part 13",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_14",
+                "day": 14,
+                "title": "SEO Mastery - Part 14",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 120,
+                "completed": false
+            },
+            {
+                "id": "academic_day_15",
+                "day": 15,
+                "title": "SEO Mastery - Part 15",
+                "description": "Deep dive into seo mastery principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_16",
+                "day": 16,
+                "title": "Content Strategy - Part 1",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_17",
+                "day": 17,
+                "title": "Content Strategy - Part 2",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_18",
+                "day": 18,
+                "title": "Content Strategy - Part 3",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_19",
+                "day": 19,
+                "title": "Content Strategy - Part 4",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_20",
+                "day": 20,
+                "title": "Content Strategy - Part 5",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_21",
+                "day": 21,
+                "title": "Content Strategy - Part 6",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_22",
+                "day": 22,
+                "title": "Content Strategy - Part 7",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_23",
+                "day": 23,
+                "title": "Content Strategy - Part 8",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_24",
+                "day": 24,
+                "title": "Content Strategy - Part 9",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_25",
+                "day": 25,
+                "title": "Content Strategy - Part 10",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_26",
+                "day": 26,
+                "title": "Content Strategy - Part 11",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_27",
+                "day": 27,
+                "title": "Content Strategy - Part 12",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_28",
+                "day": 28,
+                "title": "Content Strategy - Part 13",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_29",
+                "day": 29,
+                "title": "Content Strategy - Part 14",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 130,
+                "completed": false
+            },
+            {
+                "id": "academic_day_30",
+                "day": 30,
+                "title": "Content Strategy - Part 15",
+                "description": "Deep dive into content strategy principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_31",
+                "day": 31,
+                "title": "Marketing Tactics - Part 1",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_32",
+                "day": 32,
+                "title": "Marketing Tactics - Part 2",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_33",
+                "day": 33,
+                "title": "Marketing Tactics - Part 3",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_34",
+                "day": 34,
+                "title": "Marketing Tactics - Part 4",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_35",
+                "day": 35,
+                "title": "Marketing Tactics - Part 5",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_36",
+                "day": 36,
+                "title": "Marketing Tactics - Part 6",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_37",
+                "day": 37,
+                "title": "Marketing Tactics - Part 7",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_38",
+                "day": 38,
+                "title": "Marketing Tactics - Part 8",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_39",
+                "day": 39,
+                "title": "Marketing Tactics - Part 9",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_40",
+                "day": 40,
+                "title": "Marketing Tactics - Part 10",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_41",
+                "day": 41,
+                "title": "Marketing Tactics - Part 11",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_42",
+                "day": 42,
+                "title": "Marketing Tactics - Part 12",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_43",
+                "day": 43,
+                "title": "Marketing Tactics - Part 13",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_44",
+                "day": 44,
+                "title": "Marketing Tactics - Part 14",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 140,
+                "completed": false
+            },
+            {
+                "id": "academic_day_45",
+                "day": 45,
+                "title": "Marketing Tactics - Part 15",
+                "description": "Deep dive into marketing tactics principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_46",
+                "day": 46,
+                "title": "Analytics & Data - Part 1",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_47",
+                "day": 47,
+                "title": "Analytics & Data - Part 2",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_48",
+                "day": 48,
+                "title": "Analytics & Data - Part 3",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_49",
+                "day": 49,
+                "title": "Analytics & Data - Part 4",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_50",
+                "day": 50,
+                "title": "Analytics & Data - Part 5",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_51",
+                "day": 51,
+                "title": "Analytics & Data - Part 6",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_52",
+                "day": 52,
+                "title": "Analytics & Data - Part 7",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_53",
+                "day": 53,
+                "title": "Analytics & Data - Part 8",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_54",
+                "day": 54,
+                "title": "Analytics & Data - Part 9",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_55",
+                "day": 55,
+                "title": "Analytics & Data - Part 10",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_56",
+                "day": 56,
+                "title": "Analytics & Data - Part 11",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_57",
+                "day": 57,
+                "title": "Analytics & Data - Part 12",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_58",
+                "day": 58,
+                "title": "Analytics & Data - Part 13",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_59",
+                "day": 59,
+                "title": "Analytics & Data - Part 14",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 150,
+                "completed": false
+            },
+            {
+                "id": "academic_day_60",
+                "day": 60,
+                "title": "Analytics & Data - Part 15",
+                "description": "Deep dive into analytics & data principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_61",
+                "day": 61,
+                "title": "Monetization Strategies - Part 1",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_62",
+                "day": 62,
+                "title": "Monetization Strategies - Part 2",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_63",
+                "day": 63,
+                "title": "Monetization Strategies - Part 3",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_64",
+                "day": 64,
+                "title": "Monetization Strategies - Part 4",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_65",
+                "day": 65,
+                "title": "Monetization Strategies - Part 5",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_66",
+                "day": 66,
+                "title": "Monetization Strategies - Part 6",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_67",
+                "day": 67,
+                "title": "Monetization Strategies - Part 7",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_68",
+                "day": 68,
+                "title": "Monetization Strategies - Part 8",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_69",
+                "day": 69,
+                "title": "Monetization Strategies - Part 9",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_70",
+                "day": 70,
+                "title": "Monetization Strategies - Part 10",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_71",
+                "day": 71,
+                "title": "Monetization Strategies - Part 11",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_72",
+                "day": 72,
+                "title": "Monetization Strategies - Part 12",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_73",
+                "day": 73,
+                "title": "Monetization Strategies - Part 13",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_74",
+                "day": 74,
+                "title": "Monetization Strategies - Part 14",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 160,
+                "completed": false
+            },
+            {
+                "id": "academic_day_75",
+                "day": 75,
+                "title": "Monetization Strategies - Part 15",
+                "description": "Deep dive into monetization strategies principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_76",
+                "day": 76,
+                "title": "Feature & Product Improvement - Part 1",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_77",
+                "day": 77,
+                "title": "Feature & Product Improvement - Part 2",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_78",
+                "day": 78,
+                "title": "Feature & Product Improvement - Part 3",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_79",
+                "day": 79,
+                "title": "Feature & Product Improvement - Part 4",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_80",
+                "day": 80,
+                "title": "Feature & Product Improvement - Part 5",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_81",
+                "day": 81,
+                "title": "Feature & Product Improvement - Part 6",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_82",
+                "day": 82,
+                "title": "Feature & Product Improvement - Part 7",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_83",
+                "day": 83,
+                "title": "Feature & Product Improvement - Part 8",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_84",
+                "day": 84,
+                "title": "Feature & Product Improvement - Part 9",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_85",
+                "day": 85,
+                "title": "Feature & Product Improvement - Part 10",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_86",
+                "day": 86,
+                "title": "Feature & Product Improvement - Part 11",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_87",
+                "day": 87,
+                "title": "Feature & Product Improvement - Part 12",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_88",
+                "day": 88,
+                "title": "Feature & Product Improvement - Part 13",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_89",
+                "day": 89,
+                "title": "Feature & Product Improvement - Part 14",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 170,
+                "completed": false
+            },
+            {
+                "id": "academic_day_90",
+                "day": 90,
+                "title": "Feature & Product Improvement - Part 15",
+                "description": "Deep dive into feature & product improvement principles and application.",
+                "type": "academic",
+                "xp": 180,
+                "completed": false
+            }
+        ]
+    }
+}

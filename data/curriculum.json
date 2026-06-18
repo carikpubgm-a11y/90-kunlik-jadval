@@ -1,0 +1,60 @@
+{
+  "1": {
+    "day": 1,
+    "tracks": {
+      "backend": {
+        "id": "b_1",
+        "title": "Variables and Data Types",
+        "description": "Understand basic Python data structures.",
+        "type": "code",
+        "xpReward": 15,
+        "content": "Learn how to declare strings, integers, and floats in Python."
+      },
+      "english": {
+        "id": "e_1",
+        "title": "Technical Vocabulary: Variables",
+        "description": "Learn the correct pronunciation and context of programming terms.",
+        "type": "read",
+        "xpReward": 10,
+        "content": "Vocabulary: Variable, Integer, Float, String, Boolean. Practice speaking them."
+      },
+      "ai": {
+        "id": "a_1",
+        "title": "What is Academic AI?",
+        "description": "Introduction to the concept of Machine Learning vs Traditional Programming.",
+        "type": "read",
+        "xpReward": 10,
+        "content": "Read the introductory article comparing symbolic AI and Machine Learning."
+      }
+    }
+  },
+  "2": {
+    "day": 2,
+    "tracks": {
+      "backend": {
+        "id": "b_2",
+        "title": "Control Flow: If/Else",
+        "description": "Master branching logic in Python.",
+        "type": "code",
+        "xpReward": 15,
+        "content": "Write a script that uses if/elif/else to evaluate conditions."
+      },
+      "english": {
+        "id": "e_2",
+        "title": "Describing Logic",
+        "description": "How to explain your code to a colleague.",
+        "type": "read",
+        "xpReward": 10,
+        "content": "Phrases: 'If this condition is met...', 'Otherwise we execute...'"
+      },
+      "ai": {
+        "id": "a_2",
+        "title": "Linear Algebra Basics",
+        "description": "What is a vector?",
+        "type": "read",
+        "xpReward": 10,
+        "content": "Understand vectors as arrays of numbers representing features."
+      }
+    }
+  }
+}
